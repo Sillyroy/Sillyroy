@@ -1,4 +1,4 @@
-<p> `~ this whole thing is stupid ! ~` </p> 
+<p> `~ this whole thing is stupid ! ~` </p> https://docs.google.com/document/d/1veNceLWkcNy8tGZyQGXTd193DmMasDI4GbSXrm8hGGM/edit?usp=drivesdk
   ◇                                       
 <div align="center" style="margin-top: 100px; margin-bottom: 100px;">
 <img
