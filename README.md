@@ -1,5 +1,5 @@
 <p> `~ this whole thing is stupid ! ~` </p> 
-<https://github.com/Sillyroy/Sillyroy/edit/main/README.md|like this> meow meow
+<[https://github.com/Sillyroy/Sillyroy/edit/main/README.md](https://atabook.org/control/general)|like this> meow meow
                           
 <div align="center" style="margin-top: 100px; margin-bottom: 100px;">
 <img
