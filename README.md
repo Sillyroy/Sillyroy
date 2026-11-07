@@ -1,5 +1,5 @@
-<p> `~ this whole thing is stupid ! ~` </p> https://docs.google.com/document/d/1veNceLWkcNy8tGZyQGXTd193DmMasDI4GbSXrm8hGGM/edit?usp=drivesdk
-  ◇                                       
+<p> `~ this whole thing is stupid ! ~` </p> ◇ [Read if youre british..](https://docs.google.com/document/d/1veNceLWkcNy8tGZyQGXTd193DmMasDI4GbSXrm8hGGM/edit?usp=drivesdk)
+                                     
 <div align="center" style="margin-top: 100px; margin-bottom: 100px;">
 <img
 src="https://i.pinimg.com/originals/7f/b5/f7/7fb5f76dcba874860ec1fdc12294d0e1.gif" alt="This may contain: a baby deer laying down on the ground with it&#39;s head turned to the side"/>
