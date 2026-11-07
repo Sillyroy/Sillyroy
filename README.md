@@ -1,5 +1,5 @@
 <p> `~ this whole thing is stupid ! ~` </p> 
-(https://atabook.org/control/general)>meow meow
+<https://atabook.org/control/general|meow meow>
                           
 <div align="center" style="margin-top: 100px; margin-bottom: 100px;">
 <img
