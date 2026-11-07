@@ -1,9 +1,5 @@
 <p> `~ this whole thing is stupid ! ~` </p> 
-# Source - https://stackoverflow.com/a/70796695
-# Posted by kevdecent
-# Retrieved 2026-11-07, License - CC BY-SA 4.0
-
-<http://someurl|like this>
+<https://github.com/Sillyroy/Sillyroy/edit/main/README.md|like this> meow meow
                           
 <div align="center" style="margin-top: 100px; margin-bottom: 100px;">
 <img
