@@ -1,4 +1,5 @@
 <p> `~ this whole thing is stupid !  </p>
+˚₊‧꒰১ 𓂋 ໒꒱ ‧₊˚
 so i actually really hate doing anything on this stupid site so uhm hi !
 <div align="center" style="margin-top: 100px; margin-bottom: 100px;">
 <img
