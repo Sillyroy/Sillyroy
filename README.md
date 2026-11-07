@@ -1,5 +1,5 @@
-<p> `~ this whole thing is stupid ! ~` </p> ◇ Click if you're british. .
-                                     
+<p> `~ this whole thing is stupid ! ~` </p> 
+<link>[◇ Click if you're british. .](https://docs.google.com/document/d/1IhyClYfsnU4mTHhhduQDNpn_0mBHS_nMyS5wte5nDpI/edit?usp=drivesdk)</link>                          
 <div align="center" style="margin-top: 100px; margin-bottom: 100px;">
 <img
 src="https://i.pinimg.com/originals/7f/b5/f7/7fb5f76dcba874860ec1fdc12294d0e1.gif" alt="This may contain: a baby deer laying down on the ground with it&#39;s head turned to the side"/>
